@@ -8,6 +8,7 @@ h1{
     font-family:  "Lucida Calligraphy",/*dando una tipografia al titulo*/
     "Lucida Handwriting", "Apple Chancery";
     font-size: 90px;/*tamaño de tipografia*/
+    text-shadow:5px 2px 4px #B0C4DE;/*aplicando sombra al texto*/
     padding: 20px;/*tamaño del padding*/
     color: #F0F8FF;/*color de letra*/
     background-color: #000000 ;/*color de padding*/
