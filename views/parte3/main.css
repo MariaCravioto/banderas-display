@@ -1,0 +1,29 @@
+
+span.caja1{
+  display: inline-block;
+  background-color:	#FFD700;
+  width: 200px;
+ height: 90px;
+ padding: 10px;
+ margin: 10px 15px 10px 15px;
+
+}
+
+span.caja2{
+  display: inline-block;/*convirtiendo el atributo en inline-block*/
+  color: #FFFFFF;/*color de letra*/
+  background-color: #121319;/*color de padding*/
+  width: 200px;
+  height: 90px;
+  padding: 10px;
+  margin:10px 15px 10px 15px;
+}
+
+span.caja3{
+  display: inline-block;
+  background-color:	#FFD700;
+  width: 200px;
+  height: 90px;
+  padding: 10px;
+  margin: 10px 15px 10px 15px;
+}

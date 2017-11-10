@@ -1,0 +1,28 @@
+
+span.caja1{
+
+  background-color:	#FFD700;
+  width: 50px;
+ height: 10px;
+ padding: 10px;
+ margin: 10px 15px 10px 15px;
+}
+
+span.caja2{
+
+  color: #FFFFFF;/*color de letra*/
+  background-color: #121319;/*color de padding*/
+  width: 50px;
+  height: 10px;
+  padding: 10px;
+  margin:10px 15px 10px 15px;
+}
+
+span.caja3{
+
+  background-color:	#FFD700;
+  width: 50px;
+  height: 10px;
+  padding: 10px;
+  margin: 10px 15px 10px 15px;
+}
