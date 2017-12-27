@@ -1,32 +1,31 @@
-body{
-  /*agregando color de fondo a la pagina*/
+body{/*adding background color to the page*/
   background-color: #696969;
 }
 
 h1{
-    display: inline-block;/*convirtiendo en inline-block*/
-    font-family:  "Lucida Calligraphy",/*dando una tipografia al titulo*/
-    "Lucida Handwriting", "Apple Chancery";
-    font-size: 90px;/*tamaño de tipografia*/
-    text-shadow:5px 2px 4px #B0C4DE;/*aplicando sombra al texto*/
-    padding: 20px;/*tamaño del padding*/
-    color: #F0F8FF;/*color de letra*/
-    background-color: #000000 ;/*color de padding*/
-    border: 5px groove;/*tamaño y estilo de border*/
-    width: 1250px;/*ancho*/
-    height: 200px;/*altura*/
-    margin: 10px 10px 10px 10px;
+  background-color: #000000 ;/*padding color*/
+  border: 5px groove;/*size and style of border*/
+  color: #F0F8FF;/*font color*/
+  display: inline-block;/*turning into inline-block*/
+  font-family:  "Lucida Calligraphy",/*giving a typography to the title*/
+  "Lucida Handwriting", "Apple Chancery";
+  font-size: 90px;/*typography size*/
+  height: 200px;
+  margin: 10px 10px 10px 10px;
+  padding: 20px;/*size of padding*/
+  text-shadow:5px 2px 4px #B0C4DE;/*applying shadow to the text*/
+  width: 1250px;
   }
 
 div.subtitulo{
-  /*definiendo estilo de subtitulo*/
-    display: inline-block;
-    font-family: monospace;
-    text-align: center;/*alineando el texto al centro*/
-    color:#F5F5DC ;
-    background-color: #191970 ;
-    border: 5px groove #000000;
-    width: 300px;
-    height: 30px;
-    margin-top: 10px 10px 10px 100px;
+  /*defining subtitle style*/
+  background-color: #191970 ;
+  border: 5px groove #000000;
+  color:#F5F5DC ;
+  display: inline-block;
+  font-family: monospace;
+  height: 30px;
+  margin-top: 10px 10px 10px 100px;
+  text-align: center;/*aligning the text to the center*/
+  width: 300px;
 }
